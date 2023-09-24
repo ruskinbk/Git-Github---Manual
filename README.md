@@ -22,7 +22,7 @@ status - displays the state of the code
 
 {untracked - new files that git doesn't track yet, modified - changed, staged - file ready to committed, unmodified - unchanged}
 
-Add & Commit:
+<h2>Add & Commit:</h2>
 
 add - adds new or changed files in your working directory to the Git staging area
 
