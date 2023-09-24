@@ -26,7 +26,7 @@ status - displays the state of the code
 
 add - adds new or changed files in your working directory to the Git staging area
 
-&nbsp; git add <-file name->
+&nbsp; git add <-file name-> <br>
 &nbsp; git add . (Adds all files at once)
 
 commit - it is the record of change
