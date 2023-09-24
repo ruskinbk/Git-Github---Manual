@@ -10,11 +10,11 @@ git config --global user.name "My name" <br>
 git config --global user.email "myname@email.com" <br>
 git config --list
 
-Clone & Status:
+<h1>Clone & Status:</h1>
 
 clone - cloning a repository on our local machine
 
-\t  git clone <-some link->
+  git clone <-some link->
 
 status - displays the state of the code
 
