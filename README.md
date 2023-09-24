@@ -14,11 +14,11 @@ git config --list
 
 clone - cloning a repository on our local machine
 
-  git clone <-some link->
+&nbsp; git clone <-some link->
 
 status - displays the state of the code
 
-  git status
+&nbsp; git status
 
 {untracked - new files that git doesn't track yet, modified - changed, staged - file ready to committed, unmodified - unchanged}
 
@@ -26,8 +26,8 @@ status - displays the state of the code
 
 add - adds new or changed files in your working directory to the Git staging area
 
-  git add <-file name->
+&nbsp; git add <-file name->
 
 commit - it is the record of change
 
-  git commit -m "some message"
+&nbsp; git commit -m "some message"
