@@ -47,6 +47,9 @@ init -  used to create a new git repo
 &nbsp; git remote add origin <-link->   <br>
 &nbsp; git remote -v    (to verify remote)  <br>
 &nbsp; git branch       (to check branch)   <br>
-&nbsp; branch -M main   (to rename branch)  <br>
+&nbsp; git branch -M main   (to rename branch)  <br>
 &nbsp; git push origin main
 
+&nbsp; git push -u origin main (-u meaans set upstream for push on the main branch only afterward)
+
+git
