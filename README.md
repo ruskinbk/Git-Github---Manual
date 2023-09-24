@@ -39,3 +39,14 @@ push - upload local repo(laptop/pc) content to remote repo(github)
 
 &nbsp; git push origin main
 
+<h3>Init Command:</h3>
+
+init -  used to create a new git repo
+
+&nbsp; git init
+&nbsp; git remote add origin <-link->
+&nbsp; git remote -v    (to verify remote)
+&nbsp; git branch       (to check branch)
+&nbsp; branch -M main   (to rename branch)
+&nbsp; git push origin main
+
