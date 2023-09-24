@@ -32,3 +32,10 @@ add - adds new or changed files in your working directory to the Git staging are
 commit - it is the record of change
 
 &nbsp; git commit -m "some message"
+
+<h3>Push Command:</h3>
+
+push - upload local repo(laptop/pc) content to remote repo(github)
+
+&nbsp; git push origin main
+
