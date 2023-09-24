@@ -14,7 +14,7 @@ Clone & Status:
 
 clone - cloning a repository on our local machine
 
-  git clone <-some link->
+\t  git clone <-some link->
 
 status - displays the state of the code
 
