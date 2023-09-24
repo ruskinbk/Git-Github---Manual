@@ -6,8 +6,8 @@ Github is a website that allows developers to store and manage their code using 
 
 Configuring Git:
 
-git config --global user.name "My name" 
-git config --global user.email "myname@email.com" 
+git config --global user.name "My name" <br>
+git config --global user.email "myname@email.com" <br>
 git config --list
 
 Clone & Status:
