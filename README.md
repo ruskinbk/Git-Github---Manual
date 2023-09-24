@@ -10,7 +10,7 @@ git config --global user.name "My name" <br>
 git config --global user.email "myname@email.com" <br>
 git config --list
 
-<h1>Clone & Status:</h1>
+<h3>Clone & Status:</h3>
 
 clone - cloning a repository on our local machine
 
@@ -22,7 +22,7 @@ status - displays the state of the code
 
 {untracked - new files that git doesn't track yet, modified - changed, staged - file ready to committed, unmodified - unchanged}
 
-<h2>Add & Commit:</h2>
+<h3>Add & Commit:</h3>
 
 add - adds new or changed files in your working directory to the Git staging area
 
