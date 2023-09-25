@@ -55,3 +55,11 @@ init -  used to create a new git repo
 <h3>WORKFLOW</h3>
 
 &nbsp; Github Repo > clone > changes > add > commit > push
+
+<h3>Git Branches</h3>
+
+&nbsp; git branch  (to check branch)   <br>
+&nbsp; git branch -M main  (to rename branch)  <br>
+&nbsp; git checkout <-branch name->    (to navigate)   <br>
+&nbsp; git checkout -b <-new branch name->    (to create new branch)   <br>
+&nbsp; git branch -d <-branch name->   (to delete branch)
