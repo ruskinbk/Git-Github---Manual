@@ -52,4 +52,6 @@ init -  used to create a new git repo
 
 &nbsp; git push -u origin main (-u meaans set upstream for push on the main branch only afterward)
 
-git
+<h3>WORKFLOW</h3>
+
+&nbsp; Github Repo > clone > changes > add > commit > push
