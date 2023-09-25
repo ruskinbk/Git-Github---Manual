@@ -56,10 +56,52 @@ init -  used to create a new git repo
 
 &nbsp; Github Repo > clone > changes > add > commit > push
 
-<h3>Git Branches</h3>
+<h3>Git Branches:</h3>
 
 &nbsp; git branch  (to check branch)   <br>
 &nbsp; git branch -M main  (to rename branch)  <br>
 &nbsp; git checkout <-branch name->    (to navigate)   <br>
 &nbsp; git checkout -b <-new branch name->    (to create new branch)   <br>
 &nbsp; git branch -d <-branch name->   (to delete branch)
+
+<h3>Merging Code:</h3>
+
+Way1:
+
+&nbsp; git diff <-branch name->    (to compare commits, branches, files and more)  <br>
+&nbsp; git merge <-branch name->   (to merge two branches)
+
+Way2:
+
+&nbsp; Create a pull request (which let you to tell others about the changes you've pushed to a branch in a Github Repository)
+
+<h3>Pull Command:</h3>
+
+pull - upload remote repo(github) content to local repo(laptop/pc)
+
+&nbsp; git pull origin main
+
+<h3>Undoing changes:</h3>
+
+Case 1: staged changes
+    
+&nbsp; git reset <-file name-> <br>
+&nbsp; git reset
+
+Case 2: commited changes (for one commit)
+
+&nbsp; git reset HEAD~1
+
+Case 3: commit changes (for many commits)
+
+&nbsp; git reset <-commit hash->    <br>   
+&nbsp; git reset --hard <-commit hash->
+
+
+ NOTE:
+
+    git log (to check all commits history)
+
+<h3>Fork:</h3>
+
+A fork is a new repository that shares code and visibility settings with the original “upstream” repository.
